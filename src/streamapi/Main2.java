@@ -43,6 +43,7 @@ public class Main2{
         Map<String,List< GroupbyDepartment> > employees=employee.stream().collect(Collectors.groupingBy(GroupbyDepartment::getDepartment));
         System.out.println(employees);
         //Ashwini
+        //Amit
 //        employeesByDept.forEach((dept, emps) -> {
 //            System.out.println("Department: " + dept);
 //            emps.forEach(System.out::println);
