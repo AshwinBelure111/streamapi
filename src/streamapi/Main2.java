@@ -48,6 +48,8 @@ public class Main2{
         //ashwini belure
 
         //ashwini belure 12
+
+        //origin
 //        employeesByDept.forEach((dept, emps) -> {
 //            System.out.println("Department: " + dept);
 //            emps.forEach(System.out::println);
